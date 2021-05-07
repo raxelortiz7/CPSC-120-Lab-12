@@ -1,3 +1,13 @@
+// Raxel Ortiz
+// CPSC 120-05
+// 2021-05-06
+// raxelortiz7@csu.fullerton.edu
+// @raxelortiz7
+//
+// Lab 12-01
+//
+// This program generates a bunch of smooth balls!
+//
 
 #ifndef _UTILITY_H_
 #define _UTILITY_H_

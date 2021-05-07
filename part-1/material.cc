@@ -1,3 +1,14 @@
+// Raxel Ortiz
+// CPSC 120-05
+// 2021-05-06
+// raxelortiz7@csu.fullerton.edu
+// @raxelortiz7
+//
+// Lab 12-01
+//
+// This program generates a bunch of smooth balls!
+//
+
 #include "material.h"
 
 #include <array>
